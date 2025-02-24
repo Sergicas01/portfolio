@@ -43,3 +43,41 @@ Los KPIs son:
 * La generación de DC de la planta 2 NO funciona bien, algunos módulos llevan muy poco DC a los inverters incluso en las horas de mayor irradiación.
 * La transformación de DC a AC de la planta 1 NO funciona bien, solo se transforma en torno al 10%, eso sí, de forma constante. Y esta baja eficiencia no es debida a momentos de no recepción de DC ni se concentra en inverters concretos, si no que parece más estructural.
 * La transformación de DC a AC de la planta 2 funciona bien, ya que una vez eliminados los períodos de generación cero de DC el resto tienen una eficiencia superior al 97%
+## [Resultados del proyecto de optimización de un ecommerce](https://github.com/Sergicas01/portfolio/blob/main/Resultados%20del%20proyecto%20de%20optimizaci%C3%B3n%20de%20un%20ecommerce.ipynb)
+En este caso realizamos el análisis para un ecommerce del sector cosméticos. Analizamos los datos transaccionales para intentar potenciales acciones CRO que incrementen visitas, conversiones y ticket medio, y por tanto incrementar la facturación global del ecommerce.
+
+## Conclusiones
+Tras el análisis realizado sobre los datos transaccionales se ha desarrollado un plan CRO de 12 iniciativas concretas organizadas en 5 grandes palancas de negocio que con alta probabilidad van a incrementar los baselines consiguiendo un incremento global de los ingresos del ecommerce. En cada sesión, de media:
+
+* KPIs por sesión: Se ven 2.2 productos
+* KPIs por sesión: Se añaden 1.3 productos al carrito
+* KPIs por sesión: Se eliminan 0.9 productos del carrito
+* KPIs por sesión: Se compran 0.3 productos
+* Venta cruzada: mediana de 5 productos por compra
+* Recurrencia: el 10% de los clientes vuelve a comprar tras el primer mes
+* Conversión: 60% de añadir al carrito sobre visualizaciones
+* Conversión: 22% de compra sobre añadidos a carrito
+* Conversión: 13% de compra sobre visualizaciones
+* Facturación media mensual: 125.000€
+
+**Acciones de incremento de visualizaciones:**
+* Revisar las campañas de paid (generación y retargeting) para concentrar la inversión en franjas entre las 9 y las 13 y entre las 18 y las 20
+* Concentrar la inversión del período navideño y post-navideño en la semana del black friday
+* Incrementar la inversión hasta llegar al CPA máximo en base al LTV que hemos identificado (el LTV medio es de 42€).
+
+**Acciones de incremento de conversión:**
+* Preconfigurar la home con los productos identificados en los análisis most viewed y most sold.
+* Trabajar sobre los productos con alta tasa de abandono de carrito
+* Trabajar sobre los productos muy vistos pero poco comprados
+
+**Acciones de incremento de venta cruzada:**
+* La compra mediana incluye 5 productos
+* Incrementar este ratio mediante la recomendación en tiempo real con el nuevo recomendador
+
+**Acciones de incremento de frecuencia de compra:**
+* El 90% de los clientes sólo hace una compra
+* Crear una newsletter periódica con el nuevo recomendador para incrementar la frecuencia de visita
+* Campañas promocionales sobre los segmentos top de la segmentación RFM
+
+**Acciones de fidelización de clientes:**
+* Crear un programa de fidelización segmentado por la nueva segmentación RFM
