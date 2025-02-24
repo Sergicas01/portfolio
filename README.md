@@ -21,6 +21,7 @@ Los KPIs son:
 * Se recomienda buscar inmuebles que estando en uno de los barrios identificados no estén necesariamente cerca de puntos de interés
 * Se recomienda incrementar el número de reseñas del inmueble en alquiler, ya que favorece a un incremento de la ocupación del mismo.
 * Se recomienda evaluar el desarrollo de un nuevo producto basado en el alquier para momentos concretos de alto interés deportivo, especialmente en el barrio de San Blas
+
 ## [Resultados del proyecto de detección de ineficiencias en una planta solar](https://github.com/Sergicas01/portfolio/blob/main/Resultados%20del%20proyecto%20de%20detecci%C3%B3n%20de%20ineficiencias%20en%20una%20planta%20solar.ipynb)
 En este proyecto para una compañía de generación de energía solar fotovoltaica, se han detectado comportamientos anómalos en 2 de las plantas. Analizamos los datos de los sensores y medidores.
 
@@ -81,3 +82,5 @@ Tras el análisis realizado sobre los datos transaccionales se ha desarrollado u
 
 **Acciones de fidelización de clientes:**
 * Crear un programa de fidelización segmentado por la nueva segmentación RFM
+
+![Funnel](funnel.jpg)
