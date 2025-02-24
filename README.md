@@ -3,7 +3,7 @@
 ## Autor
 * LinkedIn: [**Sergi Martínez Castro**](www.linkedin.com/in/sergi-martínez-castro-b53457294)
 
-## [Resultados del proyecto de inversión inmobiliaria en Madrid](https://github.com/Sergicas01/portfolio/blob/main/Madrid2024resultados.ipynb)
+## [Resultados del proyecto de inversión inmobiliaria en Madrid](https://github.com/Sergicas01/portfolio/blob/main/Resultados%20del%20proyecto%20de%20inversi%C3%B3n%20inmobiliaria%20en%20Madrid.ipynb)
 La empresa ha seleccionado la ciudad de Madrid como candidata para buscar inmuebles en los que invertir con el objetivo de obtener rentabilidad mediante alquiler turístico.
 
 Las palancas que influyen sobre el objetivo de negocio son:
@@ -21,7 +21,7 @@ Los KPIs son:
 * Se recomienda buscar inmuebles que estando en uno de los barrios identificados no estén necesariamente cerca de puntos de interés
 * Se recomienda incrementar el número de reseñas del inmueble en alquiler, ya que favorece a un incremento de la ocupación del mismo.
 * Se recomienda evaluar el desarrollo de un nuevo producto basado en el alquier para momentos concretos de alto interés deportivo, especialmente en el barrio de San Blas
-## [Resultados del proyecto de detección de ineficiencias en una planta solar](https://github.com/Sergicas01/portfolio/blob/main/PLANTA%20SOLAR%20RESULTADOS.ipynb)
+## [Resultados del proyecto de detección de ineficiencias en una planta solar](https://github.com/Sergicas01/portfolio/blob/main/Resultados%20del%20proyecto%20de%20detecci%C3%B3n%20de%20ineficiencias%20en%20una%20planta%20solar.ipynb)
 En este proyecto para una compañía de generación de energía solar fotovoltaica, se han detectado comportamientos anómalos en 2 de las plantas. Analizamos los datos de los sensores y medidores.
 
 Las palancas que influyen sobre el objetivo de negocio (en este caso generar corriente AC) son:
