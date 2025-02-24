@@ -1,5 +1,8 @@
 # Portafolio de Análisis de Datos 📉📊📈
 ¡Bienvenido a mi portafolio de análisis de datos en GitHub! En este repositorio, encontrarás una colección de mis proyectos principales de análisis y ciencia de datos, así como un resumen de los KPIs, palancas y conclusiones obtenidas de cada uno.
+## Autor
+* LinkedIn: [**Sergi Martínez Castro**](www.linkedin.com/in/sergi-martínez-castro-b53457294)
+
 ## [Resultados del proyecto de inversión inmobiliaria en Madrid](https://github.com/Sergicas01/portfolio/blob/main/Madrid2024resultados.ipynb)
 La empresa ha seleccionado la ciudad de Madrid como candidata para buscar inmuebles en los que invertir con el objetivo de obtener rentabilidad mediante alquiler turístico.
 
