@@ -23,7 +23,6 @@ Los KPIs son:
 * Se recomienda evaluar el desarrollo de un nuevo producto basado en el alquier para momentos concretos de alto interés deportivo, especialmente en el barrio de San Blas
 
 ![Barrios con potencial de inversión](barrios%20con%20potencial%20de%20inversi%C3%B3n.jpg)
-![San Blas](San%20Blas.jpg)
 
 ## [Resultados del proyecto de detección de ineficiencias en una planta solar](https://github.com/Sergicas01/portfolio/blob/main/Resultados%20del%20proyecto%20de%20detecci%C3%B3n%20de%20ineficiencias%20en%20una%20planta%20solar.ipynb)
 En este proyecto para una compañía de generación de energía solar fotovoltaica, se han detectado comportamientos anómalos en 2 de las plantas. Analizamos los datos de los sensores y medidores.
