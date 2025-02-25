@@ -1,7 +1,7 @@
 # Portafolio de Análisis de Datos 📉📊📈
 ¡Bienvenido a mi portafolio de análisis de datos en GitHub! En este repositorio, encontrarás una colección de mis proyectos principales de análisis y ciencia de datos, así como un resumen de los KPIs, palancas y conclusiones obtenidas de cada uno.
->[!IMPORTANT]
->Al hacer click en el titular de cada proyecto podrás acceder al informe de resultados de cada uno, así como sus dashboards y conclusiones detalladas. Aunque si deseas ver el proyecto íntegro puedes contactar conmigo.
+
+Al hacer click en el titular de cada proyecto podrás acceder al informe de resultados de cada uno, así como sus dashboards y conclusiones detalladas. Aunque si deseas ver el proyecto íntegro puedes contactar conmigo.
 
 ## Autor
 * LinkedIn: [**Sergi Martínez Castro**](www.linkedin.com/in/sergi-martínez-castro-b53457294)
