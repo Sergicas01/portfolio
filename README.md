@@ -1,7 +1,7 @@
 # Portafolio de Análisis de Datos 📉📊📈
 ¡Bienvenido a mi portafolio de análisis de datos en GitHub! En este repositorio, encontrarás una colección de mis proyectos principales de análisis y ciencia de datos, así como un resumen de los KPIs, palancas y conclusiones obtenidas de cada uno.
 
-* 📌Al hacer click en el titular de cada proyecto podrás acceder a los informes, dashboards y detalles de cada proyecto.
+📌Al hacer click en el titular de cada proyecto podrás acceder a los informes, dashboards y detalles de cada proyecto.
 
 LinkedIn: [**Sergi Martínez Castro**](www.linkedin.com/in/sergi-martínez-castro-b53457294) |📩 Contáctame si deseas ver el proyecto completo.
 
@@ -26,7 +26,7 @@ Los KPIs son:
 
 ![SanBlas](blas.jpg)
 ## [Detección de ineficiencias en una planta solar](https://github.com/Sergicas01/portfolio/blob/main/Resultados%20del%20proyecto%20de%20detecci%C3%B3n%20de%20ineficiencias%20en%20una%20planta%20solar.ipynb)
-Se han detectado comportamientos anómalos en dos plantas de generación fotovoltaica. Para identificar las causas, se analizaron los datos de sensores y medidores.
+**Objetivo:** Identificar las causas de los comportamientos anómalos en dos plantas de generación fotovoltaica.
 
 Las palancas que influyen sobre el objetivo de negocio (en este caso generar corriente AC) son:
 
@@ -41,6 +41,7 @@ Los KPIs son:
 * **Potencia DC:** Energía generada en corriente continua (kW).
 * **Potencia AC:** Energía convertida en corriente alterna (kW).
 ### Conclusiones
+
 **Planta 1:**
 * La generación de DC es 10 veces superior a la de la planta 2, pero podría estar artificialmente escalada.
 * La conversión de DC a AC es ineficiente (~10%), de forma constante y estructural.
@@ -52,7 +53,7 @@ Los KPIs son:
 
 ![irradiación](irradiación.jpg)
 ## [Optimización de un ecommerce](https://github.com/Sergicas01/portfolio/blob/main/Resultados%20del%20proyecto%20de%20optimizaci%C3%B3n%20de%20un%20ecommerce.ipynb)
-Se analizaron datos transaccionales para identificar acciones de optimización (CRO) que aumenten visitas, conversiones y ticket medio, con el objetivo de incrementar la facturación global.
+**Objetivo:** Identificar acciones de optimización (CRO) que aumenten visitas, conversiones y ticket medio, con el objetivo de incrementar la facturación global.
 
 ## Conclusiones
 Se diseñó un plan CRO con 12 iniciativas en 5 áreas clave para mejorar los KPIs y aumentar los ingresos del ecommerce.
