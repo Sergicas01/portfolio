@@ -52,7 +52,7 @@ Los KPIs son:
 * La generación de DC es deficiente, con módulos que producen poco incluso en alta irradiación.
 * La conversión de DC a AC es eficiente (>97%) cuando hay generación de DC.
 
-![irradiación](irradiación.jpg)
+![irradiación](dashboardirradiacion.jpg)
 ## [Optimización de un ecommerce](https://github.com/Sergicas01/portfolio/blob/main/Resultados%20del%20proyecto%20de%20optimizaci%C3%B3n%20de%20un%20ecommerce.ipynb)
 **Objetivo:** Identificar acciones de optimización (CRO) que aumenten visitas, conversiones y ticket medio, con el objetivo de incrementar la facturación global.
 
