@@ -89,4 +89,4 @@ Se diseñó un plan CRO con 12 iniciativas en 5 áreas clave para mejorar los KP
 **Acciones de fidelización de clientes:**
 * Implementar programa de fidelización basado en RFM.
 
-![Funnel](funnel.jpg)
+![Funnel](dashboardecommerce.jpg)
