@@ -24,7 +24,7 @@ Los KPIs son:
 * Aumentar las reseñas en Airbnb para mejorar la ocupación.
 * Evaluar un producto de alquiler enfocado en eventos deportivos, especialmente en San Blas: [Mapa de oportunidades de inversión.](https://sergicas01.github.io/hosting/)
 
-![dashboard](https://github.com/Sergicas01/portfolio/blob/main/dashboard%20madrid.jpg)
+![dashboard](dashboard%20madrid.jpg)
 
 ## [Detección de ineficiencias en una planta solar](https://github.com/Sergicas01/portfolio/blob/main/Resultados%20del%20proyecto%20de%20detecci%C3%B3n%20de%20ineficiencias%20en%20una%20planta%20solar.ipynb)
 **Objetivo:** Identificar las causas de los comportamientos anómalos en dos plantas de generación fotovoltaica.
