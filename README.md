@@ -111,7 +111,7 @@ Las variables son:
 ![image](https://github.com/user-attachments/assets/5f602edc-08d7-42e6-85c7-5bcab4cc8ce4)
 
 ## [Lead Scoring](https://github.com/Sergicas01/Leadscoring)
-**objetivo:** Desarrollar un modelo de Lead Scoring basado en machine learning para calificar leads de manera eficiente, evitando la saturación del canal, minimizando quejas de los comerciales y maximizando resultados. Además, se aplicará segmentación no supervisada para analizar el tipo de leads que captura la empresa.
+**Objetivo:** Desarrollar un modelo de Lead Scoring basado en machine learning para calificar leads de manera eficiente, evitando la saturación del canal, minimizando quejas de los comerciales y maximizando resultados. Además, se aplicará segmentación no supervisada para analizar el tipo de leads que captura la empresa.
 
 Por tanto desarrollamos 2 modelos:
 
@@ -154,7 +154,7 @@ Transformaciones
 ![Libro1 (1)](https://github.com/user-attachments/assets/e8aafe1d-2445-4a60-b5e7-c945ed16f655)
 
 ## [Forecasting Retail](https://github.com/Sergicas01/Forecasting-Retail)
-**objetivo:** ¿Cuáles serán las ventas de los próximos días por tienda y producto? Reducir gastos (costes de almacén y coste de capital) e incrementar ingresos (reducir roturas de stock) desarrollando modelos de machine learning sobre una base de datos que tiene 3 años de histórico para predecir las ventas de los próximos 8 días a nivel de tienda-producto.
+**Objetivo:** ¿Cuáles serán las ventas de los próximos días por tienda y producto? Reducir gastos (costes de almacén y coste de capital) e incrementar ingresos (reducir roturas de stock) desarrollando modelos de machine learning sobre una base de datos que tiene 3 años de histórico para predecir las ventas de los próximos 8 días a nivel de tienda-producto.
 
 Las variables son:
 * **Datos temporales y eventos:** Fecha, día de la semana, mes, eventos especiales.
