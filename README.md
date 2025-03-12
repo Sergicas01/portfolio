@@ -111,7 +111,7 @@ Las variables son:
 ![image](https://github.com/user-attachments/assets/5f602edc-08d7-42e6-85c7-5bcab4cc8ce4)
 
 ## [Lead Scoring]
-**objetivo:** Construir un modelo de Lead Scoring basado en machine learning que pudiera ser llamado por un cliente para hacer la cualificación de sus leads. Para evitar saturar el canal, generar quejas de los comerciales o obtener menos resultados de los posibles. Además de realizar una segmentación mediante no supervisado que permita entender mejor qué tipo de leads está capturando la empresa.
+**objetivo:** Desarrollar un modelo de Lead Scoring basado en machine learning para calificar leads de manera eficiente, evitando la saturación del canal, minimizando quejas de los comerciales y maximizando resultados. Además, se aplicará segmentación no supervisada para analizar el tipo de leads que captura la empresa.
 
 Las variables son:
 * **Origen:** Canal principal por el cual el lead ingresó al sistema (ej. orgánico, pagado, referido)
