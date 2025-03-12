@@ -109,3 +109,14 @@ Las variables son:
 📌Al hacer click en el titular de este proyecto podrás acceder a la siguiente aplicación alojada en Streamlit:
 
 ![image](https://github.com/user-attachments/assets/5f602edc-08d7-42e6-85c7-5bcab4cc8ce4)
+
+## [Forecasting Retail con ML]
+**objetivo:** ¿Cuáles serán las ventas de los próximos días por tienda y producto? Reducir gastos (costes de almacén y coste de capital) e incrementar ingresos (reducir roturas de stock) desarrollando modelos de machine learning sobre una base de datos que tiene 3 años de histórico para predecir las ventas de los próximos 8 días a nivel de tienda-producto.
+
+Las variables son:
+* **Datos temporales y eventos:** Fecha, día de la semana, mes, eventos especiales.
+* **Identificadores:** Producto, tienda.
+* **Datos de stock y precios:** Rotura de stock en diferentes períodos, precio de venta retrasado.
+* **Historial de ventas:** Ventas pasadas en distintos períodos.
+* **Máximos y mínimos de ventas:** Máximos y mínimos en distintos períodos.
+* **Media móvil de ventas:** Ventas promedio en distintos períodos.
