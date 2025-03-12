@@ -100,7 +100,7 @@ Por tanto desarrollamos 3 modelos para finalmente combinarlos todos y calcular l
 * Modelo de regresión para EAD (% del principal que no había sido amortizado): Light GBM
 * Modelo de regresión para LGD (% del pendiente que NO se recupera en caso de impago): Light GBM
 
-Los KPIs principales son:
+Las variables son:
 * **Historial de pagos y deudas:** Número de cancelaciones de préstamos, retrasos en pagos, número de hipotecas, líneas de crédito abiertas y derogatorios.
 * **Datos del préstamo:** importe total, mensualidad, tipo de interés, número de cuotas iniciales, importe amortizado, estado del préstamo y finalidad.
 * **Situación financiera del cliente:** Ratio deuda-ingresos, porcentaje de uso del crédito revolving, importe recuperado en impagos.
