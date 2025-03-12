@@ -1,5 +1,5 @@
 # Portafolio de Ciencia de Datos 📉📊📈
-¡Bienvenido a mi portafolio de análisis de datos en GitHub! En este repositorio, encontrarás una colección de mis proyectos principales de análisis y ciencia de datos, así como un resumen de los KPIs, palancas y conclusiones obtenidas de cada uno.
+¡Bienvenido a mi portafolio de ciencia de datos! En este repositorio, encontrarás una colección de mis proyectos principales de análisis y ciencia de datos, así como un resumen de los KPIs, palancas y conclusiones obtenidas de cada uno.
 
 📌Al hacer click en el titular de cada proyecto podrás acceder a los informes, dashboards y detalles de cada proyecto.
 
@@ -110,7 +110,7 @@ Las variables son:
 
 ![image](https://github.com/user-attachments/assets/5f602edc-08d7-42e6-85c7-5bcab4cc8ce4)
 
-## [Lead Scoring]
+## [Lead Scoring](https://github.com/Sergicas01/Leadscoring)
 **objetivo:** Desarrollar un modelo de Lead Scoring basado en machine learning para calificar leads de manera eficiente, evitando la saturación del canal, minimizando quejas de los comerciales y maximizando resultados. Además, se aplicará segmentación no supervisada para analizar el tipo de leads que captura la empresa.
 
 Por tanto desarrollamos 2 modelos:
