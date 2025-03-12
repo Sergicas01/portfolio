@@ -95,7 +95,17 @@ Se diseñó un plan CRO con 12 iniciativas en 5 áreas clave para mejorar los KP
 **Objetivo:** ¿Cuál es el precio al que deberíamos conceder el prestámo? Para averiguarlo utilizaremos la siguiente fórmula: 
 * Expected Loss = Probability of Default * Principal * Exposure at Default * Loss Given Default
 
-Por tanto desarrollamos 3 modelos, y al final combinarlos todos para calcular la pérdida esperada:
-* Modelo de clasificación para PD: Regresión logística
-* Modelo de regresión para EAD: Light GBM
-* Modelo de regresión para LGD: Light GBM
+Por tanto desarrollamos 3 modelos para finalmente combinarlos todos y calcular la pérdida esperada:
+* Modelo de clasificación para PD (probabilidad de impago): Regresión logística
+* Modelo de regresión para EAD (% del principal que no había sido amortizado): Light GBM
+* Modelo de regresión para LGD (% del pendiente que NO se recupera en caso de impago): Light GBM
+
+Los KPIs principales son:
+* **Historial de pagos y deudas:** Número de cancelaciones de préstamos, retrasos en pagos, número de hipotecas, líneas de crédito abiertas y derogatorios.
+* **Datos del préstamo:** importe total, mensualidad, tipo de interés, número de cuotas iniciales, importe amortizado, estado del préstamo y finalidad.
+* **Situación financiera del cliente:** Ratio deuda-ingresos, porcentaje de uso del crédito revolving, importe recuperado en impagos.
+* **Información personal y laboral:** Antigüedad en el empleo, tipo de empleo, titularidad de la vivienda, verificación de ingresos.
+
+📌Al hacer click en el titular de este proyecto podrás acceder a la siguiente aplicación alojada en Streamlit:
+
+![image](https://github.com/user-attachments/assets/5f602edc-08d7-42e6-85c7-5bcab4cc8ce4)
