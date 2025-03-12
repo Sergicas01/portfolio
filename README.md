@@ -115,8 +115,8 @@ Las variables son:
 
 Por tanto desarrollamos 2 modelos:
 
-*Modelización para no supervisado (segmentación): Kmeans.
-*Modelización para Clasificacion: Regresión logística.
+* Modelización para no supervisado (segmentación): Kmeans.
+* Modelización para Clasificacion: Regresión logística.
 
 Las variables son:
 * **Origen:** Canal principal por el cual el lead ingresó al sistema (ej. orgánico, pagado, referido)
