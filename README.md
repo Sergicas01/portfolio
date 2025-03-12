@@ -121,4 +121,5 @@ Las variables son:
 * **Máximos y mínimos de ventas:** Máximos y mínimos en distintos períodos.
 * **Media móvil de ventas:** Ventas promedio en distintos períodos.
 
+📌Al hacer click en el titular de este proyecto podrás acceder al proyecto completo separado en sus distintas fases.
 ![Libro1](https://github.com/user-attachments/assets/506b7b70-0323-4144-a898-1d0618f0eeae)
