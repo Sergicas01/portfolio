@@ -151,6 +151,8 @@ Transformaciones
 * One-Hot Encoding (OHE) para variables categóricas como "ámbito" y "ocupación".
 * MinMax Scaling (MMS) para normalizar métricas numéricas como "score_actividad" y "tiempo_en_site_total".
 
+![Libro1 (1)](https://github.com/user-attachments/assets/e8aafe1d-2445-4a60-b5e7-c945ed16f655)
+
 ## [Forecasting Retail](https://github.com/Sergicas01/Forecasting-Retail)
 **objetivo:** ¿Cuáles serán las ventas de los próximos días por tienda y producto? Reducir gastos (costes de almacén y coste de capital) e incrementar ingresos (reducir roturas de stock) desarrollando modelos de machine learning sobre una base de datos que tiene 3 años de histórico para predecir las ventas de los próximos 8 días a nivel de tienda-producto.
 
