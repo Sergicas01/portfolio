@@ -113,6 +113,11 @@ Las variables son:
 ## [Lead Scoring]
 **objetivo:** Desarrollar un modelo de Lead Scoring basado en machine learning para calificar leads de manera eficiente, evitando la saturación del canal, minimizando quejas de los comerciales y maximizando resultados. Además, se aplicará segmentación no supervisada para analizar el tipo de leads que captura la empresa.
 
+Por tanto desarrollamos 2 modelos:
+
+*Modelización para no supervisado (segmentación): Kmeans.
+*Modelización para Clasificacion: Regresión logística.
+
 Las variables son:
 * **Origen:** Canal principal por el cual el lead ingresó al sistema (ej. orgánico, pagado, referido)
 * **Fuente:** Plataforma o medio específico que generó el lead (ej. Google, Facebook, Email)
@@ -126,6 +131,26 @@ Las variables son:
 * **Score_actividad:** Puntuación derivada del comportamiento y engagement del lead
 * **Score_perfil:** Puntuación basada en características demográficas y profesionales
 
+Técnicas utilizadas en el proyecto y las variables afectadas:
+
+EDA (Análisis Exploratorio de Datos)
+* Eliminar registros con datos inconsistentes en todas las variables principales.
+* Verificar tipos de datos para asegurar consistencia.
+* Eliminar duplicados en todas las variables clave.
+
+Manejo de valores nulos
+* Imputación por valor en varias variables de comportamiento y puntuación.
+* Imputación por moda en variables categóricas como "ámbito" y "ocupación".
+* Imputación por mediana en varias métricas numéricas para estabilidad.
+
+Manejo de valores atípicos
+* Identificación de categorías raras en variables categóricas.
+* Winsorización manual para limitar valores extremos en "páginas_vistas_visita".
+
+Transformaciones
+* One-Hot Encoding (OHE) para variables categóricas como "ámbito" y "ocupación".
+* MinMax Scaling (MMS) para normalizar métricas numéricas como "score_actividad" y "tiempo_en_site_total".
+
 ## [Forecasting Retail](https://github.com/Sergicas01/Forecasting-Retail)
 **objetivo:** ¿Cuáles serán las ventas de los próximos días por tienda y producto? Reducir gastos (costes de almacén y coste de capital) e incrementar ingresos (reducir roturas de stock) desarrollando modelos de machine learning sobre una base de datos que tiene 3 años de histórico para predecir las ventas de los próximos 8 días a nivel de tienda-producto.
 
@@ -136,6 +161,24 @@ Las variables son:
 * **Historial de ventas:** Ventas pasadas en distintos períodos.
 * **Máximos y mínimos de ventas:** Máximos y mínimos en distintos períodos.
 * **Media móvil de ventas:** Ventas promedio en distintos períodos.
+
+Técnicas utilizadas en el proyecto y las variables afectadas:
+
+EDA (Análisis Exploratorio de Datos)
+* Verificación de tipos de datos en variables como "month" y "weekday" para asegurar consistencia.
+* Manejo de valores nulos
+
+* Imputación por valor en "event_name_1".
+* Imputación por moda en "item_id" para valores categóricos.
+* Codificación de variables categóricas
+
+* One-Hot Encoding (OHE) en "event_name_1".
+* Target Encoding (TE) en "item_id", "store_id" y "weekday".
+
+Transformaciones temporales
+* Lags en "ventas" para capturar tendencias pasadas y predecir futuras fluctuaciones.
+* Mínimo móvil, media móvil y máximo móvil en "ventas" para suavizar fluctuaciones y entender la variabilidad.
+* Generación de nuevas variables: Creación de "rotura_stock_3", "rotura_stock_7" y "rotura_stock_15" mediante cálculos de lags en "ventas", permitiendo estimar rupturas de stock a diferentes plazos.
 
 📌Al hacer click en el titular de este proyecto podrás acceder al proyecto completo separado en sus distintas fases.
 ![Libro1](https://github.com/user-attachments/assets/506b7b70-0323-4144-a898-1d0618f0eeae)
