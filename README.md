@@ -1,4 +1,4 @@
-# Portafolio de Análisis de Datos 📉📊📈
+# Portafolio de Ciencia de Datos 📉📊📈
 ¡Bienvenido a mi portafolio de análisis de datos en GitHub! En este repositorio, encontrarás una colección de mis proyectos principales de análisis y ciencia de datos, así como un resumen de los KPIs, palancas y conclusiones obtenidas de cada uno.
 
 📌Al hacer click en el titular de cada proyecto podrás acceder a los informes, dashboards y detalles de cada proyecto.
@@ -56,7 +56,7 @@ Los KPIs son:
 ## [Optimización de un ecommerce](https://github.com/Sergicas01/portfolio/blob/main/Resultados%20del%20proyecto%20de%20optimizaci%C3%B3n%20de%20un%20ecommerce.ipynb)
 **Objetivo:** Identificar acciones de optimización (CRO) que aumenten visitas, conversiones y ticket medio, con el objetivo de incrementar la facturación global.
 
-## Conclusiones
+### Conclusiones
 Se diseñó un plan CRO con 12 iniciativas en 5 áreas clave para mejorar los KPIs y aumentar los ingresos del ecommerce.
 
 * visualizaciones por sesión: 2.2 productos vistos
@@ -90,3 +90,12 @@ Se diseñó un plan CRO con 12 iniciativas en 5 áreas clave para mejorar los KP
 * Implementar programa de fidelización basado en RFM.
 
 ![Funnel](dashboardecommerce.jpg)
+
+## [Risk Score con ML](https://appriesgos-de6kqmafhuytzmcu6hzwba.streamlit.app/)
+**Objetivo:** ¿Cuál es el precio al que deberíamos conceder el prestámo? Para averiguarlo utilizaremos la siguiente fórmula: 
+* Expected Loss = Probability of Default * Principal * Exposure at Default * Loss Given Default
+
+Por tanto desarrollamos 3 modelos, y al final combinarlos todos para calcular la pérdida esperada:
+* Modelo de clasificación para PD: Regresión logística
+* Modelo de regresión para EAD: Light GBM
+* Modelo de regresión para LGD: Light GBM
