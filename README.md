@@ -151,6 +151,8 @@ Transformaciones
 * One-Hot Encoding (OHE) para variables categóricas como "ámbito" y "ocupación".
 * MinMax Scaling (MMS) para normalizar métricas numéricas como "score_actividad" y "tiempo_en_site_total".
 
+📌Al hacer click en el titular de este proyecto podrás acceder al proyecto completo separado en sus distintas fases.
+
 ![Libro1 (1)](https://github.com/user-attachments/assets/e8aafe1d-2445-4a60-b5e7-c945ed16f655)
 
 ## [Forecasting Retail](https://github.com/Sergicas01/Forecasting-Retail)
@@ -183,4 +185,5 @@ Transformaciones temporales
 * Generación de nuevas variables: Creación de "rotura_stock_3", "rotura_stock_7" y "rotura_stock_15" mediante cálculos de lags en "ventas", permitiendo estimar rupturas de stock a diferentes plazos.
 
 📌Al hacer click en el titular de este proyecto podrás acceder al proyecto completo separado en sus distintas fases.
+
 ![Libro1](https://github.com/user-attachments/assets/506b7b70-0323-4144-a898-1d0618f0eeae)
