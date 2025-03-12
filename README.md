@@ -91,7 +91,7 @@ Se diseñó un plan CRO con 12 iniciativas en 5 áreas clave para mejorar los KP
 
 ![Funnel](dashboardecommerce.jpg)
 
-## [Risk Score con ML](https://appriesgos-de6kqmafhuytzmcu6hzwba.streamlit.app/)
+## [Risk Score](https://appriesgos-de6kqmafhuytzmcu6hzwba.streamlit.app/)
 **Objetivo:** ¿Cuál es el precio al que deberíamos conceder el prestámo? Para averiguarlo utilizaremos la siguiente fórmula: 
 * Expected Loss = Probability of Default * Principal * Exposure at Default * Loss Given Default
 
@@ -110,7 +110,23 @@ Las variables son:
 
 ![image](https://github.com/user-attachments/assets/5f602edc-08d7-42e6-85c7-5bcab4cc8ce4)
 
-## [Forecasting Retail con ML](https://github.com/Sergicas01/Forecasting-Retail)
+## [Lead Scoring]
+**objetivo:** Construir un modelo de Lead Scoring basado en machine learning que pudiera ser llamado por un cliente para hacer la cualificación de sus leads. Para evitar saturar el canal, generar quejas de los comerciales o obtener menos resultados de los posibles. Además de realizar una segmentación mediante no supervisado que permita entender mejor qué tipo de leads está capturando la empresa.
+
+Las variables son:
+* **Origen:** Canal principal por el cual el lead ingresó al sistema (ej. orgánico, pagado, referido)
+* **Fuente:** Plataforma o medio específico que generó el lead (ej. Google, Facebook, Email)
+* **Ult_actividad:** Última interacción registrada del lead con la plataforma/contenido
+* **Visitas_total:** Número acumulado de visitas realizadas al sitio
+* **Tiempo_en_site_total:** Duración acumulada en el sitio (generalmente en segundos/minutos)
+* **Paginas_vistas_visita:** Promedio de páginas visitadas por sesión
+* **Descarga_lm:** Indicador binario de si el lead ha descargado material informativo
+* **Ambito:** Sector o industria donde opera el lead
+* **Ocupacion:** Rol o posición profesional del lead
+* **Score_actividad:** Puntuación derivada del comportamiento y engagement del lead
+* **Score_perfil:** Puntuación basada en características demográficas y profesionales
+
+## [Forecasting Retail](https://github.com/Sergicas01/Forecasting-Retail)
 **objetivo:** ¿Cuáles serán las ventas de los próximos días por tienda y producto? Reducir gastos (costes de almacén y coste de capital) e incrementar ingresos (reducir roturas de stock) desarrollando modelos de machine learning sobre una base de datos que tiene 3 años de histórico para predecir las ventas de los próximos 8 días a nivel de tienda-producto.
 
 Las variables son:
